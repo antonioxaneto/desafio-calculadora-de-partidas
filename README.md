@@ -1,4 +1,4 @@
-<h1>🧙‍♂ Desafio Calculadora de Partidas Rankeadas</h1>
+<h1>🧙‍♂ Desafio Calculadora de Partidas Rankeadas - DIO</h1>
 <p>Este foi o segundo desafio proposto no bootcamp da DIO com o objetivo de treinar a lógica de programação em JavaScript. A ideia é criar uma função que calcula o saldo de partidas rankeadas de um jogador e, com base nesse saldo, classifica o nível do herói.
 </p>
 
